@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Ritvish
-- 👀 I’m interested in learning different languages and would like to widen my horizons.
-- 🌱 I’m currently learning C/C++ and Python.
-- 📫 How to reach me My email ritvish.g@gmail.com.
+- 🔭 I’m currently working on my DSA Skills.
+- 👀 I’m interested in learning different languages and want to widen my horizons.
+- 🌱 I’m currently learning Generative AI.
+- 📫 How to reach me : ritvish.g@gmail.com.
 
 <!---
 Ritvish/Ritvish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
